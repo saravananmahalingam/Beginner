@@ -1,6 +1,7 @@
-a=int(input())
+#saravanan
+x=int(input())
 c=0
-while a>0:
-	a=a//10
+while x>0:
+	x=x//10
 	c=c+1
 print(c)
