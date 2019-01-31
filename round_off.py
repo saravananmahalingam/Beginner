@@ -1,3 +1,3 @@
 #round off
-a=input()
+a=float(input())
 print(int(a)+1)
